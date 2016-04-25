@@ -17,3 +17,21 @@
 .bgFooter {
 	background-color: #2a3541;
 }
+* {
+	font-family: sans-serif;
+}
+/* Header */
+.tdn {
+	text-decoration: none;
+}
+nav li {
+	display: inline;
+}
+header {
+	background: url(../image/large.jpg);
+	background-position: center;
+	background-repeat: none;
+	background-size: cover;
+	margin: 0 auto;
+	text-align: center;
+}
