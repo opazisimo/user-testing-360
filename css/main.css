@@ -27,11 +27,34 @@
 nav li {
 	display: inline;
 }
+li a {
+	margin-right: 2%;
+}
 header {
 	background: url(../image/large.jpg);
 	background-position: center;
 	background-repeat: none;
 	background-size: cover;
-	margin: 0 auto;
 	text-align: center;
+}
+header img {
+	width: 40%;
+}
+.principal{
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+.rgba {
+	background-color: rgba(71,71,72,0.5) !important;
+		padding-top: 3%
+}
+.rgba2 {
+	background-color: rgba(78,127,184,0.8) !important;
+}
+.bt1 {
+	background: transparent;
+	color: white;
+	border: 1px solid white;
+	margin-top: 8%;
+	margin-bottom: 8%;
 }
