@@ -58,3 +58,41 @@ header img {
 	margin-top: 8%;
 	margin-bottom: 8%;
 }
+/*Servicios*/
+.servicios {
+	margin-top: 5%;
+	margin-bottom: 5%;
+	border-bottom: 0.5px solid #ccc;
+	text-align: center;
+}
+
+.small {
+	font-size: 0.9em;
+}
+.center {
+	text-align: center;
+}
+.circle {
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	border-radius: 50px;
+	margin: 0 auto;
+	box-shadow: 2px 2px 2px 1px rgba(131,131,131,0.5);
+	padding: 35px;
+}
+.icons {
+	font-size: 30px;
+	margin: 0 auto;
+}
+.pcircle {
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+.box-circle{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+.servicios img {
+	margin-bottom: -50px;
+}
