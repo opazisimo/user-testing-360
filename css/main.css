@@ -17,6 +17,7 @@
 .bgFooter {
 	background-color: #2a3541;
 }
+<<<<<<< HEAD
 * {
 	font-family: sans-serif;
 }
@@ -95,4 +96,21 @@ header img {
 }
 .servicios img {
 	margin-bottom: -50px;
+=======
+/*section-por-que*/
+.por-que img {
+	max-width: 100%;
+}
+.banner {
+	background-image: url(../image/banner.jpg);
+}
+.title-por-que {
+	font-size: 40px;
+}
+.logo {
+	margin-top: 2%;
+}
+.por-que li{
+	line-height: 35px;
+>>>>>>> origin/section-por-qué
 }
