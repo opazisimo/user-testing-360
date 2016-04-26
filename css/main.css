@@ -1,4 +1,38 @@
-
+/* Generales */
+.tx-wh {
+	color: white;
+}
+.tx-title1{
+	color: #6ab4ff;
+}
+.tx-title2{
+	color: #728ea9;
+}
+.tx-parrafo{
+	color: #3c3c3c;
+}
+.bgPrueba {
+	background-color: #74a3db;
+}
+.bgFooter {
+	background-color: #2a3541;
+}
+/*section-por-que*/
+.por-que img {
+	max-width: 100%;
+}
+.banner {
+	background-image: url(../image/banner.jpg);
+}
+.title-por-que {
+	font-size: 40px;
+}
+.logo {
+	margin-top: 2%;
+}
+.por-que li{
+	line-height: 35px;
+}
 /*Prueba*/
 .text-center {
 	text-align: center;
@@ -13,4 +47,21 @@
 }
 .prueba a {
 	font-size: 22px;
+}
+/*Footer*/
+footer {
+	padding: 2% 0;
+}
+footer p{
+	font-size: 10px;
+}
+footer span {
+	font-size: 27px;
+}
+.icon-facebook {
+	margin-left: 27%;
+	margin-right: 2%;
+}
+.fin{
+	margin-top: 1%;
 }
