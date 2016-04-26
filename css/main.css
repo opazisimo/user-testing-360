@@ -17,3 +17,19 @@
 .bgFooter {
 	background-color: #2a3541;
 }
+/*section-por-que*/
+.por-que img {
+	max-width: 100%;
+}
+.banner {
+	background-image: url(../image/banner.jpg);
+}
+.title-por-que {
+	font-size: 40px;
+}
+.logo {
+	margin-top: 2%;
+}
+.por-que li{
+	line-height: 35px;
+}
