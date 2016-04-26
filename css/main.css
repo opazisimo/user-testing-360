@@ -48,15 +48,12 @@
 .prueba a {
 	font-size: 22px;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
 .bgPrueba {
 	background-color: #74a3db;
 }
 .bgFooter {
 	background-color: #2a3541;
 }
-<<<<<<< HEAD
 * {
 	font-family: sans-serif;
 }
@@ -135,8 +132,7 @@ header img {
 }
 .servicios img {
 	margin-bottom: -50px;
-=======
-/*section-por-que*/
+}
 .por-que img {
 	max-width: 100%;
 }
@@ -151,11 +147,7 @@ header img {
 }
 .por-que li{
 	line-height: 35px;
->>>>>>> origin/section-por-qué
 }
-=======
->>>>>>> origin/section-prueba
-=======
 /*Footer*/
 footer {
 	padding: 2% 0;
@@ -173,4 +165,4 @@ footer span {
 .fin{
 	margin-top: 1%;
 }
->>>>>>> origin/section-footer
+
