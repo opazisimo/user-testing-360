@@ -1,35 +1,16 @@
-/* Generales */
-.tx-wh {
-	color: white;
+
+/*Prueba*/
+.text-center {
+	text-align: center;
 }
-.tx-title1{
-	color: #6ab4ff;
+.prueba {
+	padding: 2% 0;
 }
-.tx-title2{
-	color: #728ea9;
+.btn-prueba {
+	background: transparent;
+	margin-top: 4%;
+	border: 2px solid white;
 }
-.tx-parrafo{
-	color: #3c3c3c;
-}
-.bgPrueba {
-	background-color: #74a3db;
-}
-.bgFooter {
-	background-color: #2a3541;
-}
-/*section-por-que*/
-.por-que img {
-	max-width: 100%;
-}
-.banner {
-	background-image: url(../image/banner.jpg);
-}
-.title-por-que {
-	font-size: 40px;
-}
-.logo {
-	margin-top: 2%;
-}
-.por-que li{
-	line-height: 35px;
+.prueba a {
+	font-size: 22px;
 }
